@@ -1,5 +1,5 @@
 
-##[LIVE🔴](https://app.netlify.com/sites/startling-dieffenbachia-8df916/deploys/65f26f27f8145764ea4d43a0)
+## [LIVE🔴](https://65f26f27f8145764ea4d43a0--startling-dieffenbachia-8df916.netlify.app/)
 
 # React + Vite
 
